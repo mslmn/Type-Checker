@@ -63,6 +63,10 @@ input[type="text"] {
   color: #fff;
   padding: 5px 7px;
 }
+
+section.output {
+  font-size: 64px;
+}
 /*
 Demo URL:
 https://type-checker.superhi.com/
